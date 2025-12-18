@@ -1,8 +1,8 @@
 ## Hi there (Lost old account) 👋
 👋 Hi, I’m Yaw Boateng Agyenim a certified  Infrastructure(VMwARE Suite and Cloud Solutions Architect(AWS Solutions Architect, Azure) 
-👀 I’m interested in Data Science and Analytics, Machine Learning, Business Intelligence, Web Development, Data Engineering, Data Warehousing and Backend Development
-🌱 Skills: SQL, Python, CSS, Javascript, PHP, HTML, Git, AWS, Django
-💞️ I’m looking to collaborate on cloud engineering, web development, Artificial intelligence, machine learning and data analytics projects
+👀 I’m interested in building and archtecting Cloud solutions, AI, Machine Learning, Business Intelligence, Web Development, and Backend Development
+🌱 Skills: GenAI, Python, CSS, Javascript, PHP, HTML, Git, AWS, Django
+💞️ I’m looking to collaborate on cloud projects, system design, web development, Artificial intelligence, machine learning and data analytics projects
 📫 You can reach me via email: boatagyen24@gmail.com.
 <!--
 **yawoti/yawoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
